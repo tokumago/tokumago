@@ -2,6 +2,7 @@
 🔭 I’m currently working on [Mexican Sign Language multi-environment dictionary](https://github.com/Equipo-LSM).
 
 🌱 I’m currently learning algorithms, go and Kotlin.
+
 # GitHub Stats 📊 
 [![](https://raw.githubusercontent.com/tokumago/tokumago/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -20,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔍 I'm interested on apply ML and IA into fantasy sports.
 -->
