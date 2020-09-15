@@ -1,5 +1,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+🔭 I’m currently working on Mexican Sign Language multi-environment dictionary.
+🌱 I’m currently learning algorithms, go and Kotlin.
 # GitHub Stats 📊 
 [![](https://raw.githubusercontent.com/tokumago/tokumago/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
