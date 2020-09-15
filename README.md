@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://raw.githubusercontent.com/tokumago/tokumago/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!--
 **tokumago/tokumago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
