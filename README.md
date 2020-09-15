@@ -1,4 +1,4 @@
-# Hello,there! <img src="https://raw.githubusercontent.com/tokumago/tokumago/master/wave.gif" width="30px">
+# Hello,there! <img src="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre" width="30px">
 
 [![](https://raw.githubusercontent.com/tokumago/tokumago/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
